@@ -1,3 +1,6 @@
 Coffee types
 tea types
 food types
+colddrinks
+choclates
+cookies
