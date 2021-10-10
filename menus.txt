@@ -4,3 +4,4 @@ food types
 colddrinks
 choclates
 cookies
+juices
